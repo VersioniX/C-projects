@@ -1,2 +1,2 @@
-# C-projects
+from our leader Modolt Gabor
 ( ͡° ͜ʖ ͡°)
